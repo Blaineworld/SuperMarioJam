@@ -1,0 +1,28 @@
+{
+	"name": "supermariojam",
+	"version": "0.0.0",
+	"description": "Imagine if the original Super Mario Bros. was a chat room.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Blaineworld/SuperMarioJam.git"
+	},
+	"keywords": [
+		"multiplayer",
+		"Mario",
+		"chat",
+		"game"
+	],
+	"author": "Blaineworld",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Blaineworld/SuperMarioJam/issues"
+	},
+	"homepage": "https://github.com/Blaineworld/SuperMarioJam#readme",
+	"dependencies": {
+		"ws": "^7.2.1"
+	}
+}

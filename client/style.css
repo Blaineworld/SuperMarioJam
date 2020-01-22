@@ -1,0 +1,27 @@
+@font-face {
+	font-family: retro-nes;
+	src: url("retro-nes.ttf");
+}
+
+body {
+	background-color: Black;
+	color: Silver;
+
+	font-family: retro-nes;
+	font-size: 8px;
+	line-height: 8px;
+
+	margin: 0;
+	overflow: hidden;
+}
+
+#C {
+	background-color: DimGray;
+	color: Red;
+
+	position: absolute;
+	left: 50vw;
+	top: 50vh;
+
+	transform: translate(-50%, -50%);
+}
