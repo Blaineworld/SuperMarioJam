@@ -23,6 +23,6 @@
 	},
 	"homepage": "https://github.com/Blaineworld/SuperMarioJam#readme",
 	"dependencies": {
-		"ws": "^7.2.1"
+		"ws": "^7.4.6"
 	}
 }
